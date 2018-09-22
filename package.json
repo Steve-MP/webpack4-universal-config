@@ -31,5 +31,5 @@
     "webpack-md5-hash": "0.0.6"
   },
   "dependencies": {},
-  "browserslist": "last 2 major versions"
+  "browserslist": "last 2 versions"
 }
